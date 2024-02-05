@@ -1,0 +1,52 @@
+body {    font-family: Arial;
+    font-size: 12pt;
+    margin: 20px;
+    background-color: #cccccc;
+    color: #4c4646; 
+    }
+    /* Style of Heading*/
+    h1 {
+    font-size: 30pt;
+    color: #011956; 
+    }
+    
+    h2 {
+    font-size: 22pt;
+    color: #00089f; 
+    }
+    
+    h3 {
+    font-size: 16pt;
+    color: #1a66b2; 
+    }
+    
+    /* Style of Paragraph */
+    p {
+    font-size: 12pt;
+    color: #555; 
+    }
+    
+    /* Style of Link */
+    a {
+    color: #0007cc; 
+    text-decoration: none;
+    }
+    
+    a:hover {
+    columns: red; 
+    text-decoration: underline;
+    }
+    
+    a:visited {
+    color: #5a268e; 
+    }
+    
+    a:active {
+    color: #023f0f;
+    }
+    
+    .table,
+        th,
+        td{
+            border: 3px solid black;
+        }
